@@ -54,6 +54,7 @@ CREATE TABLE cities (
 );
 ```
 ### Схема базы данных:
+![image](https://github.com/DanilaMartyniuk/barovik_lab_2/assets/95588151/ff391c00-a540-4e20-877e-780cd080dc51)
 
 ### Пример заполнения данными:
 ```
